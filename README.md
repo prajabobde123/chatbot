@@ -1,7 +1,7 @@
 # chatbot(in python)
 This project is like a mini version of siri.
 The chatbot has various functionalities along with chat.
-Does not belong to a specific domain.
+Do not belong to a specific domain i.e. it is for all kind of users.
 The functionalities are-
 1. send email
 2. maintain time tabe
